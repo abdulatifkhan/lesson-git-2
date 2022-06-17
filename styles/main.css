@@ -17,3 +17,21 @@ body {
   margin-left: auto;
   margin-right: auto;
 }
+
+.heading {
+  text-align: center;
+  background-color: #eee;
+}
+
+.text-1 {
+  background-color: #ddd;
+}
+
+.image {
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.text-2 {
+  background-color: #aaa;
+}
